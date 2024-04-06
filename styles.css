@@ -18,3 +18,7 @@ li[value="2"]{
 li[value="3"]{
     color: aqua;
 }
+
+.lighter-text{
+    font-weight: 100;
+}
