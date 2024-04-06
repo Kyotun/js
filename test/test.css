@@ -1,8 +1,15 @@
-.main{
+body {
+    font-family: "Poppins", sans-serif;
+    margin: 50px 50px 0 50px;
+    display: flex;
+    flex-direction: column;
+    min-height: 95vh;
+}
+
+.main {
     position: fixed;
     top: 100px;
     left: 50px;
-
 }
 
 .left-bar{
@@ -11,10 +18,11 @@
 }
 .right-bar{
     float: right;
+    width: 45%;
 }
 
 img {
-    height: 200px;
+    height: 400px;
     margin-right: 50px;
     border-radius: 10px;
 }
