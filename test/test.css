@@ -12,15 +12,6 @@ body {
     left: 50px;
 }
 
-.left-bar{
-    float: left;
-    width: 45%;
-}
-.right-bar{
-    float: right;
-    width: 45%;
-}
-
 img {
     height: 400px;
     margin-right: 50px;
@@ -29,6 +20,18 @@ img {
 
 .blog-title{
     color: darkred;
+}
+
+.bar {
+    width: 45%;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
 }
 
 footer {
