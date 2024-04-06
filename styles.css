@@ -1,6 +1,7 @@
 html{
     background: black;
     color: white;
+    font-size: 400;
 }
 
 p {
@@ -26,4 +27,5 @@ li[value="3"]{
 
 .lighter-text{
     font-weight: 100;
+    font-size: 0.8rem;
 }
