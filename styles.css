@@ -8,3 +8,13 @@ p {
 .blue-text {
     color: blue;
 }
+
+li[value="1"]{
+    color: crimson;
+}
+li[value="2"]{
+    color: black;
+}
+li[value="3"]{
+    color: aqua;
+}
