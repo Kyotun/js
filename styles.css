@@ -12,6 +12,7 @@ html{
 
 .kyotun-frame{
     background: yellow;
+    border: 10px white;
     width: 150px;
     border-radius: 15px;
     padding: 5px;
