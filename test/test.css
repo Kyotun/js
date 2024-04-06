@@ -22,3 +22,8 @@ img {
 .blog-title{
     color: darkred;
 }
+
+footer {
+    text-align: right;
+    color: darkred;
+}
