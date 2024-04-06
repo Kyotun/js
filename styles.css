@@ -1,3 +1,10 @@
 p {
     color: crimson;
 }
+
+.red-text {
+    color: red;
+}
+.blue-text {
+    color: blue;
+}
