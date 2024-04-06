@@ -12,7 +12,6 @@ img {
     border-radius: 10px;
 }
 
-.main h1{
-    display: inline-block;
-    width: 400px;
+.blog-title{
+    color: darkred;
 }
