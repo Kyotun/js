@@ -6,12 +6,14 @@ html{
 
 .kyotun-frame{
     background: yellow;
-    width: 120px;
-    border-radius: 5px;
+    width: 150px;
+    border-radius: 15px;
+    padding: 5px;
 }
 .kyotun-text{
     color: black;
     text-align: center;
+    text-transform: uppercase;
 }
 
 p {
