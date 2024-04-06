@@ -4,6 +4,12 @@ html{
     font-size: 400;
 }
 
+.kyotun-frame{
+    background: yellow;
+    width: 120px;
+    border-radius: 5px;
+}
+
 p {
     color: crimson;
 }
