@@ -23,6 +23,12 @@ html{
     text-transform: uppercase;
 }
 
+.info-frame{
+    background-color: white;
+    width: 100px;
+    border-radius: 5px;
+}
+
 p {
     color: crimson;
 }
