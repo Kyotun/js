@@ -1,18 +1,13 @@
-.blue-box{
+.main{
     position: fixed;
-    top: 200px;
-    left: 200px;
-    height: 300px;
-    width: 500px;
-    background-color: black;
+    top: 100px;
+    left: 50px;
+
 }
 
-.yellow-circle{
-    background-color: yellow;
-    position: relative;
-    top: 50px;
-    left: 150px;
+img {
     width: 200px;
-    height: 200px;
-    border-radius: 50%;
+    float: left;
+    margin-right: 20px;
+    border-radius: 10px;
 }
