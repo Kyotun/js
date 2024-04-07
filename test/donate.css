@@ -73,3 +73,11 @@ body {
 .donate-button:hover {
     background: black;
 }
+
+@media(max-width: 1000px) {
+    .donate-container {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+    }
+}
