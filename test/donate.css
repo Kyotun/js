@@ -58,3 +58,15 @@ body {
     margin-bottom: 20px;
 }
 
+.donate-button {
+    position: absolute;
+    bottom: 0;
+    align-self: center;
+    background: linear-gradient(135deg, black, darkred);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 100%;
+}
