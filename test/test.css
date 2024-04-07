@@ -17,6 +17,16 @@ body {
     overflow: hidden;
     background-color: white;
 }
+.navbar a {
+    float: left;
+    display: block;
+    background-color: black;
+    border-radius: 15%;
+    color: red;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
 
 h1 {
     font-size: 5rem;
