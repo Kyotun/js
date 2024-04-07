@@ -34,6 +34,12 @@ body {
     color: black;
 }
 
+.frame {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+
 h1 {
     font-size: 5rem;
 }
@@ -55,12 +61,10 @@ h1 {
 }
 
 .left {
-    width: 600px;
     float: left;
 }
 
 .right {
-    width: 600px;
     float: right;
 }
 
