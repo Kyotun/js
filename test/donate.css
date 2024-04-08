@@ -64,6 +64,8 @@ body {
     bottom: 0;
     align-self: center;
     background: linear-gradient(135deg, black, darkred);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
     color: white;
     border: none;
     padding: 10px;
